@@ -1,0 +1,353 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+        
+body {
+    background: white;
+    font-family: "Noto Sherif KR", sans-serif !important;
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1180px;
+    word-break: keep-all;
+}
+
+header article {
+    width: 100%;
+}
+
+.header_fixed {
+    position: fixed;
+    top: 0;
+    left: auto;
+    right: auto;
+    background: white;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1180px;
+}
+
+iframe {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    padding-bottom: 150px;
+    width: 100%;
+    height: 100%;
+    max-height: 250px;
+}
+
+.article_menu {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.article_menu div {
+    /* margin-top: 5px; */
+    /* margin-bottom: 5px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+    font-weight: bold;
+}
+
+.article_menu .div_submenu {
+    border-top: none !important;
+    font-weight: normal !important;
+    font-size: small;
+}
+
+.article_menu span {
+    margin: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.article_menu .link_selected {
+    color: white;
+    background-color: black;
+}
+
+.article_menu a {
+    padding: 5px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+
+.article_menu a:hover {
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    animation: article_menu_a_fill 0.43s;
+}
+
+@keyframes article_menu_a_fill {
+    from { color: black; background-color: white; }
+    to { color: white; background-color: black; }
+}
+
+section {
+    color: black;
+    text-align: center;
+    opacity: 0;
+    transform: translate(0px, 20px);
+    transition: all 1.8s;
+}
+
+section article {
+    text-align: left;
+}
+
+section article h1 {
+    padding-top: 15px;
+    /* margin-bottom: 15px; */
+}
+
+section article h2 {
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+section article div {
+    line-height: 32px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+section article .div_bible {
+    font-style: italic;
+}
+
+section article .span_title {
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+section article .link_inline {
+    font-weight: normal;
+    color: black;
+    background-color: lightgray;
+    text-decoration: none;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+}
+
+section article .link_inline:hover {
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+
+section article .img_people {
+    width: 100%;
+    max-width: 150px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.div_links div {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.div_links a {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.div_links a:hover {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    animation: div_links_a_fill 0.43s;
+}
+
+.div_links a img {
+    padding: 5px !important;
+    margin: 0px !important;
+    margin-right: 15px !important;
+    width: 25px !important;
+    height: 25px !important;
+    background-color: gray;
+}
+
+.div_links a:hover .youtube{
+    background-color: #FF0000;
+}
+
+.div_links a:hover .facebook{
+    background-color: #1877F2;
+}
+
+.div_links a:hover .cafe{
+    background-color: #ED3E49;
+}
+
+
+@keyframes div_links_a_fill {
+    from { color: black; background-color: white; }
+    to { color: white; background-color: black; }
+}
+
+footer {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer h1{
+    padding: 2px;
+    padding-top: 10px;
+    border-top: 1px solid black;
+    font-size: large;
+}
+
+footer div {
+    padding: 2px;
+    /* margin-bottom: 2px; */
+    font-size: small;
+}
+
+footer div span {
+    font-weight: bold;
+}
+
+footer a {
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    animation: footer_a_fill 0.43s;
+}
+
+
+@keyframes footer_a_fill {
+    from { color: black; background-color: white; }
+    to { color: white; background-color: black; }
+}
+
+
+@media screen and (min-width: 240px) and (max-width: 950px) {
+    .article_logo {
+        text-align: center;
+    }
+
+    .img_logo {
+        width: 100px;
+        margin-top: 5px;
+    }
+    
+    .article_menu div {
+        text-align: center;
+    }
+
+    section {
+        padding-top: 150px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .section_container article {
+        width: 100%;
+    }
+    
+    .section_container img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+    }
+
+    .section_container h1{
+        padding: 15px;
+    }
+
+    .section_container h2{
+        padding: 15px;
+    }
+
+    .section_container div{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .article_left h1{
+        border-top: 3px solid black;
+    }
+
+    .article_right h1{
+        border-top: 1px solid black;
+    }
+    
+}
+
+@media (min-width: 950px) {
+    .img_logo {
+        width: 150px;
+        margin-top: 5px;
+        padding: 5px;
+    }
+
+    section {
+        padding-top: 150px;
+        padding-bottom: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .section_container {
+        display: flex;
+    }
+
+    .section_container img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        object-fit: cover;
+    }
+
+    .section_container h1{
+        border-top: 3px solid black;
+    }
+
+    .article_left {
+        width: 40%;
+        padding-right: 25px;
+    }
+
+    .article_right {
+        width: 60%;
+        padding-left: 25px;
+    }
+
+    .div_links {
+        display: flex;
+    }
+    .div_links div {
+        margin-right: 15px;
+    }
+}
