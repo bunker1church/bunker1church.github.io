@@ -44,8 +44,6 @@ iframe {
 }
 
 .article_menu div {
-    /* margin-top: 5px; */
-    /* margin-bottom: 5px; */
     padding-top: 5px;
     padding-bottom: 5px;
 
@@ -68,8 +66,8 @@ iframe {
 }
 
 .article_menu .link_selected {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: lightgray;
 }
 
 .article_menu a {
@@ -137,9 +135,13 @@ section article .link_inline {
     font-weight: normal;
     color: black;
     background-color: lightgray;
+    padding-top: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    border-bottom: 1px dotted black;
+    
     text-decoration: none;
-    text-decoration-line: underline;
-    text-decoration-thickness: 1px;
 }
 
 section article .link_inline:hover {
@@ -300,7 +302,7 @@ footer a:hover {
     }
 
     .article_right h1{
-        border-top: 1px solid black;
+        border-top: 0px solid black;
     }
     
 }
