@@ -110,7 +110,13 @@ section article {
 
 section article h1 {
     padding-top: 15px;
+    font-size: x-large;
     /* margin-bottom: 15px; */
+}
+
+
+section article .h1_big {
+    font-size: xx-large;
 }
 
 section article h2 {
