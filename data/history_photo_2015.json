@@ -2,11 +2,6 @@
     "seadata": [
         {
             "classes": "img_cover",
-            "image_url": "image/history_2015_00.jpg",
-            "description": "자케오 신부 강론"
-        },
-        {
-            "classes": "img_cover",
             "image_url": "image/history_2015_01.jpg",
             "description": "세월호 유가족과 현장예배"
         },
@@ -17,18 +12,8 @@
         },
         {
             "classes": "img_cover",
-            "image_url": "image/history_2015_03.jpg",
-            "description": "출석 중 결혼한 첫 커플 (그루,노랑)"
-        },
-        {
-            "classes": "img_cover",
             "image_url": "image/history_2015_04.jpg",
             "description": "팟빵 지식라디오 공개홀에서 송구영신예배"
-        },
-        {
-            "classes": "img_cover",
-            "image_url": "image/history_2015_05.jpg",
-            "description": "세례식 집례"
         }
     ]
 }

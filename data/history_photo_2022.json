@@ -2,11 +2,6 @@
     "seadata": [
         {
             "classes": "img_cover",
-            "image_url": "image/history_2022_00.jpg",
-            "description": "세월호 기억예배 후 폐회송"
-        },
-        {
-            "classes": "img_cover",
             "image_url": "image/history_2022_01.jpg",
             "description": "10주년 예배"
         },
@@ -42,11 +37,6 @@
         },
         {
             "classes": "img_cover",
-            "image_url": "image/history_2022_08.jpg",
-            "description": "추수감사절장식"
-        },
-        {
-            "classes": "img_cover",
             "image_url": "image/history_2022_09.jpg",
             "description": "목사안수식"
         },
@@ -67,27 +57,12 @@
         },
         {
             "classes": "img_cover",
-            "image_url": "image/history_2022_13.jpg",
-            "description": "굥타도집회"
-        },
-        {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_14.jpg",
-            "description": "굥타도집회"
-        },
-        {
-            "classes": "img_cover",
             "image_url": "image/history_2022_15.jpg",
             "description": "굥타도집회"
         },
         {
             "classes": "img_cover",
             "image_url": "image/history_2022_16.jpg",
-            "description": "굥타도집회"
-        },
-        {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_17.jpg",
             "description": "굥타도집회"
         }
     ]

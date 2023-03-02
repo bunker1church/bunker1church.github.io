@@ -42,7 +42,7 @@
     section article .img_cover {
         /* position: absolute; */
         opacity: 0.85;
-        width: 40%;
+        width: 65%;
         filter: grayscale();
         /* transform: translate(50%, 0%); */
         animation-name: img_cover_smaller;
@@ -51,9 +51,9 @@
 
     section article .img_cover:hover {
         opacity: 1.0;
-        width: 100%;
+        width: 65%;
         filter: none;
-        /* transform: translate(0%, 0%); */
+        transform: translate(5%, 0%);
         animation-name: img_cover_bigger;
         animation-duration: 0.2s;
     }
@@ -64,23 +64,27 @@
 
     @keyframes img_cover_smaller {
         from {
-            width: 100%;
+            width: 65%;
             filter: none;
+            transform: translate(5%, 0%);
         }
         to {
-            width: 40%;
+            width: 65%;
             filter: grayscale();
+            transform: translate(0%, 0%);
         }
     }
 
     @keyframes img_cover_bigger {
         from {
-            width: 40%;
+            width: 65%;
             filter: grayscale();
+            transform: translate(0%, 0%);
         }
         to {
-            width: 100%;
+            width: 65%;
             filter: none;
+            transform: translate(5%, 0%);
         }
     }
 }
@@ -97,6 +101,7 @@
     section article .photo_description {
         text-align: left;
         font-size: small;
+        display: none;
     }
 }
 
