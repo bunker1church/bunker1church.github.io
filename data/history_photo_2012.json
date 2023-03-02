@@ -1,0 +1,39 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_00.jpg",
+            "description": "창립기념예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_01.jpg",
+            "description": "창립기념예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_02.jpg",
+            "description": "창립기념예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_03.jpg",
+            "description": "소모임 보탬활동"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_04.jpg",
+            "description": "소모임 보탬활동"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_05.jpg",
+            "description": "노종면 YTN해직기자 초청 특강"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2012_06.jpg",
+            "description": "송구영신예배"
+        }
+    ]
+}

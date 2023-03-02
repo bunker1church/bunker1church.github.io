@@ -1,0 +1,29 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2014_00.jpg",
+            "description": "홍세화 선생 초청강연"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2014_01.jpg",
+            "description": "세월호 기억 촛불집회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2014_02.jpg",
+            "description": "2014년 예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2014_03.jpg",
+            "description": "2014년 예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2014_04.jpg",
+            "description": "2014년 예배"
+        }
+    ]
+}

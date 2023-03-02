@@ -1,0 +1,111 @@
+/* --------------------------- */
+/* history */
+@media screen and (min-width: 240px) and (max-width: 950px) {
+    section article .div_history_photo {
+        position: relative;
+        padding-left: 0;
+        padding-right: 0;
+
+        width: 100%;
+        overflow-x: auto;
+
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    section article .img_cover {
+        padding: 0px !important;
+        margin-right: 4px !important;
+
+        width: 240px !important;
+        /* height: 153px !important; */
+
+    }
+
+    section article .img_cover img {
+        padding: 0 !important;
+        margin: 0 !important;
+
+        width: 240px !important;
+        height: 153px !important;
+    }
+}
+
+@media (min-width: 950px) {
+    section article .div_history_photo {
+        position: relative;
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 20px;
+    }
+
+    section article .img_cover {
+        /* position: absolute; */
+        opacity: 0.85;
+        width: 40%;
+        filter: grayscale();
+        /* transform: translate(50%, 0%); */
+        animation-name: img_cover_smaller;
+        animation-duration: 0.2s;
+    }
+
+    section article .img_cover:hover {
+        opacity: 1.0;
+        width: 100%;
+        filter: none;
+        /* transform: translate(0%, 0%); */
+        animation-name: img_cover_bigger;
+        animation-duration: 0.2s;
+    }
+
+    section article .img_cover img {
+        padding: 0 !important;
+    }
+
+    @keyframes img_cover_smaller {
+        from {
+            width: 100%;
+            filter: none;
+        }
+        to {
+            width: 40%;
+            filter: grayscale();
+        }
+    }
+
+    @keyframes img_cover_bigger {
+        from {
+            width: 40%;
+            filter: grayscale();
+        }
+        to {
+            width: 100%;
+            filter: none;
+        }
+    }
+}
+/* --------------------------- */
+/* div_photo_description */
+
+@media screen and (min-width: 240px) and (max-width: 950px) {
+    section article .photo_description {
+        display: none;
+    }
+}
+
+@media (min-width: 950px) {
+    section article .photo_description {
+        text-align: left;
+        font-size: small;
+    }
+}
+
+section article .photo_description {
+    /* text-align: left; */
+    font-style: italic;
+    padding: 0px;
+    margin: 0px;
+    color: darkgray;
+    background-color: white;
+    transform: translate(0px, -20px);
+}

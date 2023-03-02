@@ -1,0 +1,29 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2017_00.jpg",
+            "description": "파주 논밭예술학교 겨울수련회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2017_01.jpg",
+            "description": "파주 논밭예술학교 겨울수련회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2017_02.jpg",
+            "description": "남양주 머뭄빌리지 여름수련회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2017_03.jpg",
+            "description": "소모임 유희"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2017_04.jpg",
+            "description": "도올의 로마서강해 출간기념 초청예배"
+        }
+    ]
+}

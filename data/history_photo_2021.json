@@ -1,0 +1,29 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2021_00.jpg",
+            "description": "비대면 성찬식"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2021_01.jpg",
+            "description": "보리떡"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2021_02.jpg",
+            "description": "평화통일월요기도회와 토크콘서트"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2021_03.jpg",
+            "description": "미얀마 민주주의 회복을 위한 목요기도회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2021_04.jpg",
+            "description": "송구영신 예배 후"
+        }
+    ]
+}

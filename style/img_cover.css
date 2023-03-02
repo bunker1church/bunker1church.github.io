@@ -1,7 +1,11 @@
+/* --------------------------- */
+/* default  */
+
 section article .img_base {
     position: relative;
     padding-left: 0;
     padding-right: 0;
+    padding-top: 20px;
     opacity: 1;
 }
 

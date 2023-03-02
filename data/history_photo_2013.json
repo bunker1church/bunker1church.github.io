@@ -1,0 +1,34 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2013_00.jpg",
+            "description": ""
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2013_01.jpg",
+            "description": "춘장과 쇼트닝유가 흐르는 만리성에서 예배 "
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2013_02.jpg",
+            "description": "어린이부"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2013_03.jpg",
+            "description": "첫 부활절 성찬식 및 세례식"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2013_04.jpg",
+            "description": "예배모습"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2013_05.jpg",
+            "description": "서로를 위한 축복의 선언"
+        }
+    ]
+}

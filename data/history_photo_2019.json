@@ -1,0 +1,54 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_00.jpg",
+            "description": "평화나무 창립예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_01.jpg",
+            "description": "청년부 &apos;자유한식당&apos; 오픈"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_02.jpg",
+            "description": "우리 제발 친해져요"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_03.jpg",
+            "description": "어린이날 체육대회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_04.jpg",
+            "description": "거제학교 폭력가해자 처벌촉구 평화나무 희망버스"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_05.jpg",
+            "description": "한국기독교장로회 벙커1교회 창립예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_06.jpg",
+            "description": "여름 수련회"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_07.jpg",
+            "description": "명성교회 세습반대운동돕기 일일찻집"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_08.jpg",
+            "description": "교우들의 모습"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2019_09.jpg",
+            "description": "고속도로 수납노동자 투쟁현장 예배"
+        }
+    ]
+}

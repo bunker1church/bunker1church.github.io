@@ -1,0 +1,29 @@
+{
+    "seadata": [
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2020_00.jpg",
+            "description": "대구 이주민선교센터 사일조"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2020_01.jpg",
+            "description": "대구 이주민선교센터 사일조"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2020_02.jpg",
+            "description": "벙커1교회 설립 공인예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2020_03.jpg",
+            "description": "벙커1교회 설립 공인예배"
+        },
+        {
+            "classes": "img_cover",
+            "image_url": "image/history_2020_04.jpg",
+            "description": "전태일열사 50주기 기념예배"
+        }
+    ]
+}
