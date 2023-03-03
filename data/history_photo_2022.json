@@ -1,69 +1,46 @@
 {
     "seadata": [
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_01.jpg",
-            "description": "10주년 예배"
+            "image_url": "image/history_2022_00.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_02.jpg",
-            "description": "10주년 예배"
+            "image_url": "image/history_2022_01.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_03.jpg",
-            "description": "10주년 예배"
+            "image_url": "image/history_2022_02.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_04.jpg",
-            "description": "10주년 예배"
+            "image_url": "image/history_2022_03.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_05.jpg",
-            "description": "10주년 예배"
+            "image_url": "image/history_2022_04.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_06.jpg",
-            "description": "10주년 예배"
+            "image_url": "image/history_2022_05.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_07.jpg",
-            "description": "공동의회 22.09.10"
+            "image_url": "image/history_2022_06.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_09.jpg",
-            "description": "목사안수식"
+            "image_url": "image/history_2022_07.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_10.jpg",
-            "description": "장로임직"
+            "image_url": "image/history_2022_09.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_11.jpg",
-            "description": "담임목사취임"
+            "image_url": "image/history_2022_10.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_12.jpg",
-            "description": "담임목사취임"
+            "image_url": "image/history_2022_11.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_15.jpg",
-            "description": "굥타도집회"
+            "image_url": "image/history_2022_14.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2022_16.jpg",
-            "description": "굥타도집회"
+            "image_url": "image/history_2022_15.jpg"
+        },
+        {
+            "image_url": "image/history_2022_16.jpg"
         }
     ]
 }

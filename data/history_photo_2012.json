@@ -1,34 +1,19 @@
 {
     "seadata": [
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2012_00.jpg",
-            "description": "창립기념예배"
+            "image_url": "image/history_2012_00.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2012_01.jpg",
-            "description": "창립기념예배"
+            "image_url": "image/history_2012_01.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2012_02.jpg",
-            "description": "창립기념예배"
+            "image_url": "image/history_2012_02.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2012_03.jpg",
-            "description": "소모임 보탬활동"
+            "image_url": "image/history_2012_03.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2012_04.jpg",
-            "description": "소모임 보탬활동"
-        },
-        {
-            "classes": "img_cover",
-            "image_url": "image/history_2012_06.jpg",
-            "description": "송구영신예배"
+            "image_url": "image/history_2012_04.jpg"
         }
     ]
 }

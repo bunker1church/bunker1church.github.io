@@ -1,29 +1,19 @@
 {
     "seadata": [
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2013_00.jpg",
-            "description": ""
+            "image_url": "image/history_2013_00.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2013_01.jpg",
-            "description": "춘장과 쇼트닝유가 흐르는 만리성에서 예배 "
+            "image_url": "image/history_2013_01.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2013_02.jpg",
-            "description": "어린이부"
+            "image_url": "image/history_2013_02.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2013_04.jpg",
-            "description": "예배모습"
+            "image_url": "image/history_2013_03.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2013_05.jpg",
-            "description": "서로를 위한 축복의 선언"
+            "image_url": "image/history_2013_04.jpg"
         }
     ]
 }

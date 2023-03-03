@@ -1,19 +1,13 @@
 {
     "seadata": [
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2015_01.jpg",
-            "description": "세월호 유가족과 현장예배"
+            "image_url": "image/history_2015_00.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2015_02.jpg",
-            "description": "세월호 유가족과 현장예배"
+            "image_url": "image/history_2015_01.jpg"
         },
         {
-            "classes": "img_cover",
-            "image_url": "image/history_2015_04.jpg",
-            "description": "팟빵 지식라디오 공개홀에서 송구영신예배"
+            "image_url": "image/history_2015_02.jpg"
         }
     ]
 }
