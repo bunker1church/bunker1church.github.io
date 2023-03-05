@@ -57,6 +57,7 @@ iframe {
 .article_menu .div_submenu {
     border-top: none !important;
     font-weight: normal !important;
+    padding-bottom: -5px;
 }
 
 .article_menu span {
@@ -65,9 +66,14 @@ iframe {
     padding-right: 0px;
 }
 
-.article_menu .link_selected {
+.article_menu .div_mainmenu .link_selected {
     color: black;
     background-color: lightgray;
+    border-bottom: 3px solid black;
+}
+
+.article_menu .div_submenu .link_selected {
+    border-bottom: 4px solid black;
 }
 
 .article_menu a {
@@ -293,6 +299,7 @@ footer a:hover {
     }
 
     .article_menu .div_submenu {
+        padding-top: 10px;
         font-size: small;
     }
 
@@ -354,7 +361,7 @@ footer a:hover {
     .article_menu span {
         padding-left: 13px !important;
         padding-right: 13px !important;
-        font-size: x-large;
+        font-size: large;
     }
 
     .article_menu .div_submenu span {
