@@ -236,6 +236,10 @@ section article .img_people {
     background-color: #ED3E49;
 }
 
+.div_links a:hover .paper{
+    background-color: gray;
+}
+
 .div_history_title {
     font-weight: bold;
 }
