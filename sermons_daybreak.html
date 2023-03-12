@@ -9,17 +9,26 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
     <link rel="manifest" href="favicons/site.webmanifest">
-    <title>벙커1교회 | 설교</title>    
+    <title>벙커1교회</title>
 </head>
 <body>
+    <section class="section_container">
+        <article class="article_left">
+            <h1>페이지를 이동합니다</h1>
+        </article>
+        <article class="article_right">
+            <h1>이동하지 않을 경우 <span class="link_inline" onclick="goLink()">여기</span>를 누르세요</h1>
+        </article>
+    </section>
+    <script>
+        window.onload = function() {
+            goLink();
+        };
 
-    <iframe src="https://v2-embednotion.com/2023-1-d1369550915d43eb90f5ab2c6272e9d7?pvs=4"></iframe>
-    
-    <!-- <footer sea-src="./component/footer.html"></footer> -->
-
-    <header class="header_fixed" sea-src="./component/header_sermons.html"></header>
+        var goLink = function() {
+            window.location.href = "https://sudsy-curiosity-466.notion.site/2023-1-d1369550915d43eb90f5ab2c6272e9d7";
+        }
+    </script>
     <script type="text/javascript" src="script/section.js"></script>
-    <script type="text/javascript" src="script/seastack.js"></script>
-    <script type="text/javascript" src="script/seastack-onload.js"></script>
 </body>
 </html>
