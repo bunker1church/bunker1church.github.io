@@ -1,3 +1,9 @@
+section article .img_poster img {
+    width: 100% !important;
+    height: 100% !important;
+    max-height: none !important;
+}
+
 section article .img_faithbook img {
     width: 100% !important;
     height: 100% !important;
