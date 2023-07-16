@@ -181,6 +181,11 @@ section article .img_people {
     margin: 0px;
 }
 
+.div_links .div_links_center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .div_links div {
     padding-top: 15px;
     padding-bottom: 15px;
