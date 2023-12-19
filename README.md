@@ -3,7 +3,8 @@
 
  경로               | 내용               | 주소                         
 -------------------|-------------------|----------------------------
- /                 | 홈페이지            | https://bunker1.me          
+ /                 | 홈페이지            | https://bunker1.me
+ /article          | 정관               | https://bunker1.me/article          
  /news             | 주보               | https://bunker1.me/news
  /sermons          | 설교문              | https://bunker1.me/sermons
  /youtube          | 누록TV 유튜브 채널    | https://bunker1.me/youtube
