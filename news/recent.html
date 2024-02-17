@@ -35,7 +35,7 @@
         };
 
         var goLink = function() {
-            fetch('../data/faithbook.json')
+            fetch('../data/news.json')
                 .then(response => response.json())
                 .then(data => {
                     const link = data.seadata[0].link_url;
