@@ -1,4 +1,15 @@
 
+section article .img_event {
+    padding: 0px !important;
+    margin-right: 4px !important;
+}
+
+section article .img_event img {
+    width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+}
+
 @media screen and (min-width: 240px) and (max-width: 950px) {
     section article .img_base {
         position: relative;
@@ -51,6 +62,7 @@
     section article .img_cover_1 {
         animation: img_cover_1_inout 22s infinite;
     }
+    
     
     @keyframes img_cover_1_inout {
         0% { opacity: 0.0; }
