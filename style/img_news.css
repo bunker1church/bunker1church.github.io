@@ -14,7 +14,7 @@ section article .img_news img {
 
 @media (min-width: 950px) {
     .article_news {
-        width: 50%;
+        width: 100%;
         padding: 0px;
         margin: 0px;
     }
