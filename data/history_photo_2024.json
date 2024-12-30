@@ -2,6 +2,18 @@
     "seadata": [
         {
             "image_url": "image/history_2024_00.jpg"
+        },
+        {
+            "image_url": "image/history_2024_01.jpg"
+        },
+        {
+            "image_url": "image/history_2024_02.jpg"
+        },
+        {
+            "image_url": "image/history_2024_03.jpg"
+        },
+        {
+            "image_url": "image/history_2024_04.jpg"
         }
     ]
 }
