@@ -115,6 +115,12 @@ section article {
     text-align: left;
 }
 
+section article .full_cover img {
+    width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+}
+
 section article h1 {
     padding-top: 15px;
     font-size: x-large;
