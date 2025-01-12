@@ -229,6 +229,10 @@ section article .img_people {
     background-color: #FF0000;
 }
 
+.div_links a:hover .instagram{
+    background-color: #F84783;
+}
+
 .div_links a:hover .facebook{
     background-color: #1877F2;
 }
