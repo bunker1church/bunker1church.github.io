@@ -2,6 +2,9 @@ section article .img_news img {
     width: 100% !important;
     height: 100% !important;
     max-height: 100% !important;
+    border-bottom-color: darkgray;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
 }
 
 @media screen and (min-width: 240px) and (max-width: 950px) {
