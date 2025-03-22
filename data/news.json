@@ -1,14 +1,14 @@
 {
     "seadata": [
         {
-            "date": "2025년 3월 16일",
-            "news_image_url_1": "./image/news_20250316_001.jpg",
-            "news_image_url_2": "./image/news_20250316_002.jpg",
-            "news_image_url_3": "./image/news_20250316_003.jpg",
-            "news_image_url_4": "./image/news_20250316_004.jpg",
-            "news_image_url_5": "./image/news_20250316_005.jpg",
-            "news_image_url_6": "./image/news_20250316_006.jpg",
-            "link_url": "https://sudsy-curiosity-466.notion.site/2025-3-16-1b7d58c3dc98805895c1cc5fbe999710"
+            "date": "2025년 3월 23일",
+            "news_image_url_1": "./image/news_20250323_001.jpg",
+            "news_image_url_2": "./image/news_20250323_002.jpg",
+            "news_image_url_3": "./image/news_20250323_003.jpg",
+            "news_image_url_4": "./image/news_20250323_004.jpg",
+            "news_image_url_5": "./image/news_20250323_005.jpg",
+            "news_image_url_6": "./image/news_20250323_006.jpg",
+            "link_url": "https://sudsy-curiosity-466.notion.site/2025-3-23-1bed58c3dc98809d8e9ac8580717055a"
         }
     ]
 }
