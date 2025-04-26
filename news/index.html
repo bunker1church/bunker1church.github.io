@@ -35,7 +35,12 @@
         };
 
         var goLink = function() {
-            window.location.href = "https://sudsy-curiosity-466.notion.site/1-66acbce3a2da4898b00a324dc3869f35";
+            fetch('../data/news.json')
+                .then(response => response.json())
+                .then(data => {
+                    const link = data.seadata[0].link_url;
+                    window.location.href = link;
+                });            
         }
     </script>
     <script type="text/javascript" src="../script/section.js"></script>
