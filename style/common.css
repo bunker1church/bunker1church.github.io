@@ -148,6 +148,8 @@ section article div {
 
 section article .span_description {
     font-family: "Noto Serif KR", sans-serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 section article .div_bible {
