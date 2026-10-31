@@ -2,10 +2,10 @@
     "seadata": [
         {
             "date": "2026년 11월 1일",
-            "news_image_url_1": "https://sudsy-curiosity-466.notion.site/image/attachment%3A409b7e76-abd1-48f0-b81c-9c91aa141643%3A주보20261101-1.jpeg?table=block&id=40ad58c3-dc98-8030-bc8e-d2968868f707&spaceId=325ad8a6-3c2a-4113-81ed-26e7e0def356&width=1040&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
-            "news_image_url_2": "https://sudsy-curiosity-466.notion.site/image/attachment%3A0c597a13-a20b-41ef-8b69-7273dd2949c5%3A주보20261101-2.jpeg?table=block&id=40ad58c3-dc98-8029-b1f4-de79c1b42421&spaceId=325ad8a6-3c2a-4113-81ed-26e7e0def356&width=1040&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
-            "news_image_url_3": "https://sudsy-curiosity-466.notion.site/image/attachment%3Ab323c5a4-42a5-40e0-ad29-489761faca36%3A주보20261101-3.jpeg?table=block&id=40ad58c3-dc98-80e9-a115-e5b63902a42c&spaceId=325ad8a6-3c2a-4113-81ed-26e7e0def356&width=1040&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
-            "news_image_url_4": "https://sudsy-curiosity-466.notion.site/image/attachment%3A181789e0-8479-478a-9498-1ee2a41554ac%3A주보20261101-4.jpeg?table=block&id=40ad58c3-dc98-802d-afe3-e42400b7aa39&spaceId=325ad8a6-3c2a-4113-81ed-26e7e0def356&width=1040&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+            "news_image_url_1": "./image/20261101-1.jpeg",
+            "news_image_url_2": "./image/20261101-2.jpeg",
+            "news_image_url_3": "./image/20261101-3.jpeg",
+            "news_image_url_4": "./image/20261101-4.jpeg",
             "link_url": "https://sudsy-curiosity-466.notion.site/2d5d58c3dc9880d5ae0bcf644cc5dea9?v=2d5d58c3dc9881da9e83000c2918e700&p=40ad58c3dc9880f0b696ed92bb650db7&pm=s"
         }
     ]
