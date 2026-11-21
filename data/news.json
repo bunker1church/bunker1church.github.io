@@ -1,12 +1,12 @@
 {
     "seadata": [
         {
-            "date": "2026년 11월 15일",
-            "news_image_url_1": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-6/907687298_1590850256416482_5185801826686841264_n.jpg?stp=dst-jpg_tt6&cstp=mx1449x2048&ctp=s1449x2048&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=m4yEDzit98gQ7kNvwH2cGVY&_nc_oc=AdoEW0I1FlR8Py8zZcQnIDjqBCaSbvKoPPnUMaRXSYbezKI_fWuQkXwMKKM5DAbMaLhralwG2imW7xbKmeoft9aH&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=-NOCzY631k4rnuSlbAkBWQ&_nc_ss=7b2a8&oh=00_AQQoKpb5UBAV3lG-Hd9Ogj5UoB-xs9oftT6SGbk2GsrcqA&oe=6AFD8762",
-            "news_image_url_2": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-6/905939912_1590850286416479_6722676984022133339_n.jpg?stp=dst-jpg_tt6&cstp=mx1449x2048&ctp=s1449x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oMV6DlkVvNgQ7kNvwHUfQ1y&_nc_oc=AdoBe4LJ_62FE2qXDBvrLFgoN8oHy_y90hzeqTCmwdhKv0auGkV7trc_OuDTqpohKq4VO_m0ymo9EhDWyYhfLiN6&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=D4u1nX2o3o17lD3R-Jp1Rg&_nc_ss=7b2a8&oh=00_AQT0TeZnPRhw9CVHOzUBAb5F6INuZDNgk-Lr1a9Ik6SoJQ&oe=6AFDA5B0",
-            "news_image_url_3": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-6/905457115_1590850273083147_6748407613949699269_n.jpg?stp=dst-jpg_tt6&cstp=mx1449x2048&ctp=s1449x2048&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IfxbzTfBL5wQ7kNvwHZzufv&_nc_oc=AdpFMbGLnySEDLVSwvs2OQNqK5vNbrtdP1e3-byw5bp9UMPCYR-hpe0U1SHXLUZmTNnp9YbMMcLDiKQQm_TDee1k&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=nnvgOMVcoIctRKQO4ri1VQ&_nc_ss=7b2a8&oh=00_AQSWqo9q6ZDEV0hRIRBZklFHD9afAwbAz3rEg1J8jM0Qgw&oe=6AFDAB80",
-            "news_image_url_4": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-6/904867426_1590850343083140_6270084999367726253_n.jpg?stp=dst-jpg_tt6&cstp=mx1449x2048&ctp=s1449x2048&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1QNpN63CEoUQ7kNvwHyy7Bt&_nc_oc=AdqI9-ypm27OAhA-pVciH60iOmPXOu29qV0k1HAHZCV7l7enSX465YMhSK7SbriMb9bjz0diKuhCRTByJwpiYLpW&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=gSON59RZnGmY35xnagpZQQ&_nc_ss=7b2a8&oh=00_AQRHGmSYCk1Qvd5iheHpETmYX7ZroNW3kvoF_eJy3haoEw&oe=6AFDA27E",
-            "link_url": "https://sudsy-curiosity-466.notion.site/2d5d58c3dc9880d5ae0bcf644cc5dea9?v=2d5d58c3dc9881da9e83000c2918e700&p=418d58c3dc9880ce97d5e27e363ebfd7&pm=s"
+            "date": "2026년 11월 22일",
+            "news_image_url_1": "./image/20261122-1.jpeg",
+            "news_image_url_2": "./image/20261122-2.jpeg",
+            "news_image_url_3": "./image/20261122-3.jpeg",
+            "news_image_url_4": "./image/20261122-4.jpeg",
+            "link_url": "https://sudsy-curiosity-466.notion.site/2d5d58c3dc9880d5ae0bcf644cc5dea9?v=2d5d58c3dc9881da9e83000c2918e700&p=41fd58c3dc98807a9d55f7797f2939e7&pm=s"
         }
     ]
 }
